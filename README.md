@@ -6,7 +6,7 @@ An interactive 5-page dashboard built in Data Studio (Google) that follows one q
 
 **Author:** Nicolas Gonzalez Villagra · Data Analyst · [GitHub](https://github.com/NicolasAGV)
 
-![Overview](images/overview.png)
+![Overview](overview.png)
 
 ---
 
