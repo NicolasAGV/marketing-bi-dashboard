@@ -6,6 +6,8 @@ An interactive 5-page dashboard built in Data Studio (Google) that follows one q
 
 **Author:** Nicolas Gonzalez Villagra · Data Analyst · [GitHub](https://github.com/NicolasAGV)
 
+**Documents:** [Insights report (PDF)](Marketing_BI_Insights.pdf) · [Dashboard export (PDF)](marketing-bi-dashboard.pdf)
+
 ![Overview](overview.png)
 
 ---
